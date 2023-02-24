@@ -23,10 +23,10 @@ name:               learn-you-haskell
 version:            0.1.0.0
 
 -- A short (one-line) description of the package.
--- synopsis:
+synopsis: Practice Haskell
 
 -- A longer description of the package.
--- description:
+description: Practice Haskell using Learn you a Haskell for great good
 
 -- The license under which the package is released.
 license:            LGPL-3.0-or-later
